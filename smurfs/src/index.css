@@ -1,5 +1,10 @@
 body {
-  margin: 0;
+  display: flex;
+  margin: 2%;
   padding: 0;
   font-family: sans-serif;
+  justify-content: center;
+  background-image: url('https://i.pinimg.com/originals/f5/7f/d8/f57fd8e28c05879bf9185dac8401e49c.png');
+  background-size: cover;
+  background-repeat: no-repeat;
 }
